@@ -30,4 +30,3 @@ def part1():
     return number_of_zeroes # Returns the final number of zeroes
 
 print("Part 1:", part1())
-print("Hej")
